@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ anAngle\ aSize\ frameWidth\ frameHeight
+comment0.target=Asteroid(double,\ double,\ double,\ int,\ int,\ int)
+comment0.text=\nConstructs\ a\ new\ asteroid.\n@param\ xPos\ the\ x\ position\n@param\ yPos\ the\ y\ position\n@param\ angle\ the\ angle\ of\ the\ asteroid\n@param\ aSize\ the\ size\ of\ the\ asteroid,\ size\ can\ be\ 1\ (small),\ 2\ (medium),\ or\ 3\ (large).\n@param\ frameWidth\ the\ width\ of\ the\ frame\n@param\ frameHeight\ the\ height\ of\ the\ frame\n\n
+comment1.target=void\ move()
+comment1.text=\nMoves\ the\ asteroid,\ resets\ it\ to\ the\ other\ side\ of\ the\ frame\ if\ it\ is\ "out\ of\ bounds".\n\n
+comment10.params=g2
+comment10.target=void\ draw(Graphics2D)
+comment10.text=\nDraws\ the\ asteroid.\n\n
+comment2.target=double\ getX()
+comment2.text=\nReturns\ the\ x\ position\ of\ the\ asteroid.\n@return\ x\n\n
+comment3.target=double\ getY()
+comment3.text=\nReturns\ the\ y\ position\ of\ the\ asteroid.\n@return\ y\n\n
+comment4.target=Rectangle2D.Double\ getBoundary()
+comment4.text=\nReturns\ the\ boundary\ of\ the\ asteroid.\n@return\ boundary\n\n
+comment5.target=double\ getXVelocity()
+comment5.text=\nReturns\ the\ x\ velocity\ of\ the\ asteroid.\n@return\ xVel\n\n
+comment6.target=double\ getYVelocity()
+comment6.text=\nReturns\ the\ y\ velocity\ of\ the\ asteroid.\n@return\ yVel\n\n
+comment7.target=int\ getPoints()
+comment7.text=\nReturns\ the\ point\ value.\n@return\ points\n\n
+comment8.target=double\ getAngle()
+comment8.text=\nReturns\ the\ velocity\ angle\ of\ the\ asteroid\n@return\ angle\n\n
+comment9.target=double\ getSize()
+comment9.text=\nReturns\ the\ size\ of\ the\ asteroid\n@return\ size\n\n
+numComments=11

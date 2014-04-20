@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y\ middleX\ middleY\ speed\ angle\ fWidth\ fHeight
+comment0.target=Bullet(double,\ double,\ double,\ double,\ double,\ double,\ int,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Bullet\n@param\ x\ X-coordinate.\n@param\ y\ Y-coordinate.\n@param\ xVelocity\ The\ speed\ of\ movement\ in\ the\ x\ axis.\n@param\ yVelocity\ The\ speed\ of\ movement\ in\ the\ y\ axis.\n\n
+comment1.target=void\ move()
+comment1.text=\nMoves\ the\ bullet\ once\ in\ the\ direction\ it\ is\ traveling\n\n
+comment10.params=g2
+comment10.target=void\ draw(Graphics2D)
+comment10.text=\nDraws\ a\ bullet\n@param\ g2\ the\ graphics\ object\ on\ which\ to\ draw\ this\ bullet\n\n
+comment2.target=double\ getX()
+comment2.text=\nRetrieves\ the\ X-coordinate\n@return\ x\ The\ X-coordinate.\n\n
+comment3.target=double\ getY()
+comment3.text=\nRetrieves\ the\ Y-coordinate\n@return\ y\ The\ Y-coordinate.\n\n
+comment4.target=double\ getStartX()
+comment4.text=\nRetrieves\ the\ starting\ X-coordinate\n@return\ x\ The\ starting\ X-coordinate.\n\n
+comment5.target=double\ getStartY()
+comment5.text=\nRetrieves\ the\ starting\ Y-coordinate\n@return\ y\ The\ starting\ Y-coordinate.\n\n
+comment6.target=double\ getXVelocity()
+comment6.text=\nRetrieves\ the\ speed\ along\ the\ X\ axis\n@return\ xVelocity\ The\ speed\ along\ the\ X\ axis.\n\n
+comment7.target=double\ getYVelocity()
+comment7.text=\nRetrieves\ the\ speed\ along\ the\ Y\ axis\n@return\ yVelocity\ The\ speed\ along\ the\ Y\ axis.\n\n
+comment8.target=double\ distanceTraveled()
+comment8.text=\nCalculates\ the\ total\ distance\ traveled\ by\ the\ bullet\n@return\ The\ distance\ in\ pixels\ the\ bullet\ has\ traveled.\n\n
+comment9.target=Point2D.Double\ getBoundary()
+comment9.text=\nRetrieves\ the\ boundary\ of\ the\ bullet\n@return\ Returns\ the\ boundary\ shape\ of\ the\ bullet\ object\n\n
+numComments=11

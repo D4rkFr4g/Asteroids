@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=currentScore\ frameWidth\ frameHeight
+comment0.target=Hud(ScoreKeeper,\ double,\ double)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ HUD\n@param\ currentScore\ The\ ScoreKeeper\ object\ that\ tracks\ lives\ and\ score.\n@param\ frameWidth\ The\ width\ of\ the\ frame\ window.\n@param\ frameHeight\ The\ height\ of\ the\ frame\ window.\n\n
+comment1.params=g2
+comment1.target=void\ draw(Graphics2D)
+comment1.text=\nDraws\ the\ Hud\ object\ on\ the\ screen\n\n
+numComments=2

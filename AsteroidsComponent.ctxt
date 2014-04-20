@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=drawableList
+comment0.target=AsteroidsComponent(ArrayList<Drawable>)
+comment0.text=\nCreates\ a\ AsteroidsComponent\ object\n@param\ drawableList\ An\ array\ list\ that\ includes\ all\ objects\ to\ be\ drawn\ on\ screen.\n\n
+comment1.params=g
+comment1.target=void\ paintComponent(Graphics)
+comment1.text=\nPaints\ all\ objects\ on\ screen\n@param\ g\ A\ Graphics\ Object\n\n
+numComments=2

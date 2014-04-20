@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ keyPressed(KeyEvent)
+comment0.text=\nMethod\ is\ fired\ everytime\ a\ key\ is\ pressed\n@param\ e\ KeyEvent\ object\ describing\ the\ key\ pressed\n\n
+comment1.params=e
+comment1.target=void\ keyReleased(KeyEvent)
+comment1.text=\nMethod\ is\ fired\ everytime\ a\ key\ is\ let\ go.\n@param\ e\ KeyEvent\ object\ describing\ the\ key\ released.\n\n
+comment2.params=e
+comment2.target=void\ keyTyped(KeyEvent)
+comment2.text=\nMethod\ is\ fired\ everytime\ a\ typing\ key\ is\ held\ down\n@param\ e\ KeyEvent\ object\ describing\ the\ key\ typed\n\n
+comment3.target=boolean\ spacePressed()
+comment3.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ space\ key\ is\ currently\ being\ pressed.\n@return\ space\ True\ if\ space\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+comment4.target=boolean\ upPressed()
+comment4.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ up\ key\ is\ currently\ being\ pressed.\n@return\ up\ True\ if\ up\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+comment5.target=boolean\ leftPressed()
+comment5.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ left\ key\ is\ currently\ being\ pressed.\n@return\ left\ True\ if\ left\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+comment6.target=boolean\ rightPressed()
+comment6.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ right\ key\ is\ currently\ being\ pressed.\n@return\ right\ True\ if\ right\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+comment7.target=boolean\ downPressed()
+comment7.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ down\ key\ is\ currently\ being\ pressed.\n@return\ down\ True\ if\ down\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+comment8.target=boolean\ enterPressed()
+comment8.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ enter\ key\ is\ currently\ being\ pressed.\n@return\ enter\ True\ if\ enter\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+comment9.target=boolean\ escPressed()
+comment9.text=\nRetrieves\ boolean\ of\ whether\ or\ not\ the\ esc\ key\ is\ currently\ being\ pressed.\n@return\ esc\ True\ if\ esc\ key\ is\ held\ down\ false\ if\ not\ held\ down.\ \n\n
+numComments=10

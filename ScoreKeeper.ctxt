@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=lives
+comment0.target=ScoreKeeper(int)
+comment1.params=aScore
+comment1.target=void\ addScore(int)
+comment1.text=\ncounts\ the\ score\n@para\ aScore\ the\ current\ score\n\n
+comment2.target=int\ getScore()
+comment2.text=\nGets\ the\ current\ Score\n@returns\ score\n\n
+comment3.target=void\ lostLife()
+comment3.text=\nDecrease\ the\ current\ lives\ of\ the\ ship\n\n
+comment4.target=int\ getLives()
+comment4.text=\nGets\ the\ current\ lives\ of\ the\ Ship;\n@returns\ curentlives\n\n
+comment5.params=bonus
+comment5.target=void\ setBonus(int)
+comment5.text=\nGives\ the\ ship\ some\ bonus\ when\ there\ are\ multiple\ hits\n@param\ bonus\n\n
+comment6.target=int\ getBonus()
+comment6.text=\nGets\ the\ current\ bonus\n@return\ bonus\n\n
+numComments=7

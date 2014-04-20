@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=frameWidth\ frameHeight
+comment0.target=TitleScreen(int,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ TitleScreen\n@param\ frameWidth\ The\ Width\ of\ the\ frame\ window\n@param\ frameHeight\ The\ Height\ of\ the\ frame\ window\n\n
+comment1.target=void\ update()
+comment1.text=\nMoves\ Asteroids\ on\ the\ title\ screen\n\n
+comment2.target=ArrayList<Asteroid>\ getDrawing()
+comment2.text=\nRetrieves\ the\ Asteroids\ to\ be\ drawn\n@return\ asteroidList\ The\ ArrayList\ contiaining\ asteroids\ to\ be\ drawn.\n\n
+comment3.params=g2
+comment3.target=void\ draw(Graphics2D)
+comment3.text=\nDraws\ titleScreen\ object.\n@param\ g2\ A\ Graphics2D\ object\n\n
+numComments=4

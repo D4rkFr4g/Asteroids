@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=soundFileName
+comment0.target=SoundEffect(String)
+comment1.target=void\ play()
+comment1.text=\nPlays\ the\ sound\ resetting\ back\ to\ start\ if\ it's\ already\ playing\n\n
+comment2.target=void\ loop()
+comment2.text=\nLoops\ the\ sound\ indefinetly\n\n
+comment3.target=void\ stop()
+comment3.text=\nStops\ the\ sound\n\n
+comment4.target=void\ init()
+comment4.text=\nPreloads\ all\ of\ the\ sound\ files\n\n
+numComments=5

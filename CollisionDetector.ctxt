@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CollisionDetector()
+comment0.text=\nConstructs\ a\ new\ Collision\ Detector\n\n
+comment1.params=one\ two
+comment1.target=boolean\ checkCollision(Rectangle2D.Double,\ Rectangle2D.Double)
+comment1.text=\nChecks\ whether\ the\ two\ rectangles\ intersect\n@param\ one\ the\ first\ rectangle\n@param\ two\ the\ second\ rectangle\n@return\ whether\ the\ two\ rectangles\ intersect\n\n
+comment2.params=one\ two
+comment2.target=boolean\ checkCollision(Rectangle2D.Double,\ Point2D.Double)
+comment2.text=\nChecks\ whether\ a\ point\ lies\ within\ the\ rectangle\n@param\ one\ the\ rectangle\n@param\ two\ the\ point\n@return\ whether\ the\ point\ lies\ within\ the\ rectangle\n\n
+numComments=3
